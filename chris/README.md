@@ -12,7 +12,7 @@ Computer scientist and serial founder with 15+ years building production systems
 
 ## Selected Projects
 
-### Kommon — AI Operating System for Construction & Trades *(2025–Present)*
+### [Kommon](https://www.kommon.ai) — AI Operating System for Construction & Trades *(2025–Present)*
 
 Co-founded and built Kommon, an AI platform that automates back-office operations for construction and trades companies — eliminating hours-long manual workflows around document processing, compliance, payroll, and field reporting.
 
