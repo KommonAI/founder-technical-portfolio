@@ -12,7 +12,7 @@ Product-minded engineer and operator with a track record of turning hackathon co
 
 ## Selected Projects
 
-### Kommon — AI Operating System for Construction & Trades *(2025–Present)*
+### [Kommon](https://www.kommon.ai) — AI Operating System for Construction & Trades *(2025–Present)*
 
 Co-founded Kommon, building an AI platform that automates back-office operations for construction and trades companies.
 
