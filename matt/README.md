@@ -6,7 +6,7 @@
 
 ## Summary
 
-Product-minded engineer and operator with a track record of turning hackathon concepts into shipped products. Built consumer apps at Yahoo and Splunk spanning chatbots, wearables, NFTs, and physical hardware — with a pattern of identifying emerging platforms early and executing quickly. Holds a U.S. patent for physical NFT minting infrastructure.
+Product-minded engineer and operator with a track record of turning hackathon concepts into shipped products. Began as a systems engineer at Lockheed Martin, where I spent eight years building the Kill Assessment System for the U.S. Navy's Aegis Ballistic Missile Defense program — still deployed on Navy ships today. Went on to build consumer apps at Yahoo and Splunk spanning chatbots, wearables, NFTs, and physical hardware — with a pattern of identifying emerging platforms early and executing quickly. Holds a U.S. patent for physical NFT minting infrastructure.
 
 ---
 
@@ -61,6 +61,20 @@ Built a chatbot prototype during a Yahoo hackathon to help users manage their fa
 
 - One of the earliest consumer sports chatbots shipped to a mainstream audience
 - [Yahoo Blog — Blitz Launch](https://web.archive.org/web/20161107013024/https://yahoo.tumblr.com/post/152334626369/step-up-your-yahoo-fantasy-football-game-with)
+
+---
+
+### Kill Assessment System — Aegis Ballistic Missile Defense *(Lockheed Martin, 2007–2015)*
+
+*U.S. Navy / Missile Defense Agency*
+
+For eight years, I was a systems engineer at Lockheed Martin, responsible for building the Kill Assessment System (KAS) for the U.S. Navy's Aegis Ballistic Missile Defense program. This system processes missile telemetry in real-time to determine, in the seconds after a live-fire intercept, whether an incoming ballistic missile has been successfully destroyed. The stakes were about as high as they get.
+
+What made my approach novel wasn't technical complexity — it was recognizing that the most important problem to solve wasn't technical at all. Early on, I embedded myself directly with the sailors operating the system, living aboard Navy cruisers and destroyers for weeks at a time while underway. Most civilian contractors stayed onshore. But sitting at those consoles revealed something no requirements document had captured: the system was technically functional and failing the people who depended on it most. A sailor would watch raw telemetry update as a missile neared intercept, then a single static image would flash on screen. They were expected to interpret that image instantly and make a high-confidence decision — with minimal visual context and maximum stress. The system was giving them data when what they needed was a story.
+
+I rebuilt the display to reconstruct the sequence of IR images captured during an intercept into a real-time video feed, giving the sailor a coherent visual narrative leading up to the critical moment rather than a jarring cut from telemetry to a frozen frame. The result was dramatically reduced operator stress, greater certainty, and higher-confidence decisions under pressure. The solution won an award and was incorporated as a critical component of the Aegis Weapons System, still deployed on U.S. Navy ships today.
+
+The lesson I carried out of that experience wasn't about missiles — it was that the most important problems in complex systems are often human ones, and they only reveal themselves when you're close enough to see them. I'm applying that same philosophy to construction now: embedding with the people who carry the complexity of these systems every day, because the best solutions are always hiding in plain sight, in the gap between how a system was designed and how people actually use it.
 
 ---
 
